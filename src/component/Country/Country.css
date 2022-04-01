@@ -1,6 +1,6 @@
 .username{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     background: rgb(250, 193, 217);
     border: 2px dashed rgb(47, 50, 255);
     padding: 20px;
